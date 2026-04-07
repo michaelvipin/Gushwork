@@ -1310,12 +1310,10 @@ section {
 }
 
 .quote-icon {
-    font-size: 4rem;
-    line-height: 0.5;
-    font-family: serif;
-    color: #2B3990;
-    margin-bottom: 16px;
-    opacity: 1;
+    display: block;
+    width: 52px;
+    height: auto;
+    margin-bottom: 24px;
 }
 
 .testim-card h3 {
